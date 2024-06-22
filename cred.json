@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "empowerin-425616",
+  "private_key_id": "1125e1fd4965e431c98b01aaeb9b1437b902dd9e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPzB1aPgVsOHk7\naXkjVCuVE2vaWv2rkzkycWLIRYbds76k6sWK7P3ubMALEa9web/LB9EXcA7gvzW/\nQ+/KLQfENBz+TWzXc6zkE3Xqo4oQdVgI2DpDbDaxrLMQ+Sz5EvQ/OJxX434jlq4t\niWzyPBBcTrriZ1JX3WhryMpiiDefG+zS+UCogx/rkURTS87dV2KNChQf93uapqgV\nA6oOVnxua405hd3w3tKZQoXkDgyi8anuINfsoqbd7Nkt90CUj70TT+282Y/Gcz56\n5rMhUTZ5oC4lxM31bBPLkOsd1HS5JTraAs5BqyOyTVGoWEARmw/oMQ9Y/OziEsjl\nOhqe7xGhAgMBAAECggEAMoumeiyK+iOUjbiewFK5lTYXrpIikUkrCROeoTOUVjpi\nPdBjw+LY89WdMzQWlkfvOM5KdKaL3+xzAPbgDbA9auL4SH2B47ieDg6TyMMGEvHQ\nO7qJFZxtg3OMTS0nXODY68Xz9cb/CF4fOTFsAFJO8n0uJWNXmsrfGxTI8gXLbdaX\nGIZwDjcUSmfDNovuYC+EMV3NAtr4SxNStKXNKHq8pI/jCJof0KPUGVQJqqHfqfdQ\naWR+eCgxWkTlEU3ncjrbX3FOz+R6TIINZ8hNogxjehbZx0uhU8svP7EoFz7Ybw3s\noxMP3xUVopaeueRxoKBhvczhUhgBCUncqXyZDd4x7wKBgQD4BZU/PdGa853GmmvH\nm90iRNBtrDXVtcHMOhyumzBG/Zt87a9wq5Nr/0cmpEMxmD/SwKNZ6QvDQ6hWeU5h\n3kgPlVGq/q+V2gCjdMPq+MpTw10WTwkra/AnSplkv5AgTL1BUPfuH2jbr0HSNLWL\nPw8u9Q/PT7pYvuGdeth+oa+6ywKBgQDWe0o40y1jYcsT03dNfJdmTZKmSgELoiTh\nYTedvBLU+q0kd1aPhxfCmW8I+JRS0XpT2KEjA8/G4+agPAbr/Y0+DlFonTTzBtGH\nrxQGd+/YTme1iHTKOCePBym+dHHs9XIKXWhi47wp18M4dsW2ydvF3y7ZlP1hK6Hv\nRzFFnjU7wwKBgQCVTecWdwRjHxxvni4br3xjUMGYA/80c4ICi0kQ42MgmTKs9fiS\n/vZ0IOyYGnJIvLpPCKBNU7k9BtGjnMrOp50BpIXRRhg1QVL5EyWNoc9KtWSoNVPz\ny7p6LLJCr/73MrsLQs69jjL1bH9XJ1vSQ1fEkMm/puMq4V24C2egc3zyGQKBgHcR\nDo0pPsMzIOeqt0o+5lWWrti9sILiypKLw7I/HD07xC7AST94gYo4X1mdlcm8HKq7\nUgj8LrZ9AiTl7fnIUkam8C6hRym7GUq3uOg2YOG19QDj9eHk9qECGvxt7GjdgSeb\n3z02q9iWvPt1hCELQoRAd+O2QEtXS5hn70R0pZy9AoGAC08AWcpsRwNZh261r0Oo\nZ6Y4oYSbTplGduJoTE9Jl9O1jgamfBSRqP7J8nxxufYBlPFH/nfeVliI0DvY3vjz\n+gH5ywlbSBfunHjGg1VTf1byhgLbAEBg7u05VV9AKWhARqRb0I1qqiF2d6pLwq76\nO03MYICIfI9VbIxvYBSn9YA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "empowerin@empowerin-425616.iam.gserviceaccount.com",
+  "client_id": "117875370359695330998",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/empowerin%40empowerin-425616.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
